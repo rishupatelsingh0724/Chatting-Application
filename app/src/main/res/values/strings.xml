@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chatting Clone</string>
+    <string name="message">Type a Message</string>
+</resources>

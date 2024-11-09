@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "980613508156",
+    "project_id": "whatsapp-4ca64",
+    "storage_bucket": "whatsapp-4ca64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980613508156:android:13f7cf44b2f32b20caa739",
+        "android_client_info": {
+          "package_name": "com.example.chattingclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAForotg9R9KoEG8gFLrZ9icHcn5KJmXHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980613508156:android:12b03a455af15f60caa739",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAForotg9R9KoEG8gFLrZ9icHcn5KJmXHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980613508156:android:38693ea0540e39bfcaa739",
+        "android_client_info": {
+          "package_name": "com.example.quickmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAForotg9R9KoEG8gFLrZ9icHcn5KJmXHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
